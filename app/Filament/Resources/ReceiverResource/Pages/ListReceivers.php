@@ -2,8 +2,7 @@
 
 namespace App\Filament\Resources\ReceiverResource\Pages;
 
-use App\Filament\Imports\ReceiverImporter;
-use App\Filament\Imports\UserImporter;
+use App\Filament\Imports\DataImporter;
 use App\Filament\Resources\ReceiverResource;
 use Filament\Actions;
 use Filament\Resources\Pages\ListRecords;
@@ -26,7 +25,7 @@ class ListReceivers extends ListRecords
             ImportAction::make()
                 ->icon('heroicon-s-cloud-arrow-up')
                 ->label('Import')
-                ->importer(UserImporter::class),
+                ->importer(DataImporter::class),
         ];
     }
 }
