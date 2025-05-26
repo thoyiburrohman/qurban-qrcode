@@ -1,7 +1,7 @@
 # Sistem Pembagian Daging Kurban Digital (QR Code)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Laravel v11.x](https://img.shields.io/badge/Laravel-v11.x-FF2D20?style=flat-square&logo=laravel)](https://laravel.com/)
+[![Laravel v11.x](https://img.shields.io/badge/Laravel-v12.x-FF2D20?style=flat-square&logo=laravel)](https://laravel.com/)
 [![Filament v3.x](https://img.shields.io/badge/Filament-v3.x-228B22?style=flat-square&logo=filament)](https://filamentphp.com/)
 [![Livewire v3.x](https://img.shields.io/badge/Livewire-v3.x-4B4B4B?style=flat-square&logo=livewire)](https://livewire.laravel.com/)
 
